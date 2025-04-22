@@ -7,11 +7,11 @@
 <h1>Habilidades</h1>
 <p>Lenguajes de Programación: Java, C++, JavaScript, HTML, CSS
 <p>Desarrollo Web: React, Node.js</p>
-<p>Bases de Datos: MySQL, PostgreSQL, MongoDB</p>
+<p>Bases de Datos: MySQL, PostgreSQL</p>
 <p>Control de Versiones: Git, GitHub</p>
 <p>Metodologías Ágiles: Scrum</p>
-<p>Herramientas y Tecnologías: Docker, Visual Studio Code</p>
-<p>Idiomas: Español (nativo), Inglés (medio)</p>
+<p>Herramientas y Tecnologías: Visual Studio Code, Postman</p>
+<p>Idiomas: Español (nativo), Inglés (bajo)</p>
 
 <h1>Proyectos Destacados</h1>
 <h2>Trabajo Práctico APIRest</h2>
