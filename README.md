@@ -5,9 +5,9 @@
 <p>Soy estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional. Me apasiona el desarrollo de software, la gestión de datos y la solución de problemas complejos a través de la tecnología.</p>
 
 <h1>Habilidades</h1>
-<p>Lenguajes de Programación: Java, C++, JavaScript, HTML, CSS
+<p>Lenguajes de Programación: Java, C++, JavaScript, Typescript, HTML, CSS
 <p>Desarrollo Web: React, Node.js</p>
-<p>Bases de Datos: MySQL, PostgreSQL</p>
+<p>Bases de Datos: MySQL, PostgreSQL, SQLite</p>
 <p>Control de Versiones: Git, GitHub</p>
 <p>Metodologías Ágiles: Scrum</p>
 <p>Herramientas y Tecnologías: Visual Studio Code, Postman</p>
