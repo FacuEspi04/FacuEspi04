@@ -14,9 +14,10 @@
 <p>Idiomas: Español (nativo), Inglés (bajo)</p>
 
 <h1>Proyectos Destacados</h1>
-<h2>Trabajo Práctico APIRest</h2>
-<p>Descripción: En este trabajo práctico, desarrollé una API RESTful utilizando el framework Spring Boot y el lenguaje de programación Java. La API permitirá realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una entidad específica. Este ejercicio tiene como objetivo familiarizarnos con los conceptos básicos de desarrollo de API REST, así como con el uso de Spring Boot, uno de los frameworks más populares en el ecosistema Java.</p>
-<p>Repositorio: https://github.com/FacuEspi04/TPApiRestEspinolaFacundo.git </p>
+<h2>Sistema de Gestión Integral para Dietética</h2>
+<p>Descripción: Aplicación web Full Stack diseñada para optimizar el flujo operativo de un comercio de alimentos naturales. El sistema centraliza la gestión de inventario, generación de pedidos a proveedores, ventas y caja, permitiendo una atención al cliente ágil mediante una interfaz híbrida que soporta tanto escaneo de códigos de barra como búsqueda predictiva por nombre.
+Incluye lógica de negocio personalizada para el manejo de Cuentas Corrientes, cálculo automático de intereses por pago con tarjeta y asignación automática de turnos (Mañana/Tarde) basada en horarios operativos configurables.</p>
+<p>Repositorio: https://github.com/FacuEspi04/DieteticaSanJose.git </p>
 
 <h1>Contacto</h1>
 <p>Correo Electrónico: facunicoespinola123@gmail.com</p>
