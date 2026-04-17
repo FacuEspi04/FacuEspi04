@@ -17,7 +17,7 @@
 <h2>Sistema de Gestión Integral para Comercios</h2>
 <p>Descripción: Aplicación web Full Stack diseñada para optimizar el flujo operativo de comercios como dietéticas, despensas, minimercados, etc. El sistema centraliza la gestión de inventario, generación de pedidos a proveedores, ventas y caja, permitiendo una atención al cliente ágil mediante una interfaz híbrida que soporta tanto escaneo de códigos de barra como búsqueda predictiva por nombre.
 Incluye lógica de negocio personalizada para el manejo de Cuentas Corrientes, cálculo automático de intereses por pago con tarjeta y asignación automática de turnos (Mañana/Tarde) basada en horarios operativos configurables.</p>
-<p>Repositorio: https://github.com/FacuEspi04/DieteticaSanJose.git </p>
+<p>Repositorio: https://github.com/FacuEspi04/GestorNegocios.git </p>
 
 <h1>Contacto</h1>
 <p>Correo Electrónico: facunicoespinola123@gmail.com</p>
